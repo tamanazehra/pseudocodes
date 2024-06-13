@@ -1,0 +1,17 @@
+D-1
+Write a pseudocode to find the maximum of three numbers.
+
+    Procedure MaxOfThreeNumbers
+        input1= a
+        input2= b 
+        input3= c
+            IF 
+             a>b AND a>c THEN 
+            PRINT "a is max"
+            ELSEIF
+             b>a AND b>c THEN
+            PRINT "b is max"
+            ELSE 
+            PRINT "c is max"
+            ENDIF
+    End Procedure  
