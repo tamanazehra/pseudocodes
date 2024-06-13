@@ -1,0 +1,12 @@
+D-1
+Write a pseudocode to check if a number is even or odd.
+
+    Procedure CheckEvenOrOdd
+    input = a 
+        IF 
+            a mod 2 == 0 
+         PRINT "a is even"
+        ELSE
+         PRINT "a is odd"
+        END IF
+    End Procedure    
