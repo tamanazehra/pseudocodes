@@ -1,0 +1,14 @@
+D-2
+Write a pseudocode to swap two numbers.
+
+    Procedure SwapNumbers
+
+        Input a , b 
+        Var = Temp
+            Temp = a 
+            a = b 
+            b = Temp
+        PRINT a , b 
+        
+     End Procedure   
+
