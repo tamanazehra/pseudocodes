@@ -1,0 +1,16 @@
+D-2
+Write a pseudocode to check if a number is prime.
+
+    Procedure CheckPrime
+            Input: num (a positive integer)
+            Output: result (prime or not prime)
+
+            Input n 
+            FOR i from 2 to n-1
+                IF n % i == 0 
+                  PRINT "n is not prime"
+                ELSE
+                  PRINT "n is prime"
+                END IF 
+            END FOR 
+    End Procedure  
