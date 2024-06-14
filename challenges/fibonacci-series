@@ -1,0 +1,23 @@
+D-2
+Write a pseudocode to find the Fibonacci series up to a given limit.
+
+    Procedure FibonacciSeries
+    Input: limit (upper limit for Fibonacci series)
+
+            // Initialize variables
+                a = 0
+                b = 1
+                 PRINT a , b 
+            FOR (i=2 , i<limit , i=i+1)
+                [c = a + b
+                 a = b 
+                 b = c
+                 PRINT c]
+            END FOR 
+
+    End Procedure     
+
+
+
+
+        
