@@ -1,0 +1,11 @@
+D-2
+Write a pseudocode to calculate the factorial of a number.
+
+    Procedure FactorialOfNumber
+        input number
+        IF num == 0 
+            return 1
+        ELSE 
+            return num*fact(num-1)
+    End Procedure        
+    
