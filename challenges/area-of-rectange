@@ -1,0 +1,11 @@
+D-2
+Write a pseudocode to calculate the area of a rectangle.
+
+        Procedure AreaOfRectangle
+
+        Input1 = width 
+        Input2 = height
+          area = width * height 
+        PRINT area 
+
+        End Procedure   
