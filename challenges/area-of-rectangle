@@ -1,9 +1,0 @@
-D-3
-Write a pseudocode to calculate the area of a rectangle
-
-    Procedure AreaOfRectangle
-        Radius = r
-            area = 3.14 * r * r 
-        PRINT area 
-
-    End Procedure        
